@@ -64,7 +64,8 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 |    - Incorporación de animaciones   |   5    |
 | **Total**                                          | **100** |
 
-
+**link**
+https://dsaw-2024-1.github.io/responsive-design-101-san1tago/
 ### Créditos
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
